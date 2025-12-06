@@ -18,5 +18,21 @@ O O . . . . . . O
 . . . O . . O . . 
 ```
 
+A slower minizinc implementation is also provided:
+```
+cells accelerated = 61
+. O . O . . . O .
+. . . . . O . . .
+O . O . . . . . O
+. . . . O . O . .
+. O . . . . O . .
+. . . O . . . . O
+O . . . . O . . .
+. . O . . . . O .
+O . . . O . . O .
+----------
+==========
+```
+
 #### Licensing
 This code belongs to the public domain.
